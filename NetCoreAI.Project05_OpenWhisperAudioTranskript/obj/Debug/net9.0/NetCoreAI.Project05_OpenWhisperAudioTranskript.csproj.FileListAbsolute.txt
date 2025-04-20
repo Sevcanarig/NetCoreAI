@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.exe
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.deps.json
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.runtimeconfig.json
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\bin\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.pdb
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.AssemblyInfo.cs
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\refint\NetCoreAI.Project05_OpenWhisperAudioTranskript.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.pdb
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\NetCoreAI.Project05_OpenWhisperAudioTranskript.genruntimeconfig.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project05_OpenWhisperAudioTranskript\obj\Debug\net9.0\ref\NetCoreAI.Project05_OpenWhisperAudioTranskript.dll

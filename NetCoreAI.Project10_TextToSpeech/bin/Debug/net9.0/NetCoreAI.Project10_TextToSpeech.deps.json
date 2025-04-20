@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetCoreAI.Project10_TextToSpeech/1.0.0": {
+        "dependencies": {
+          "System.Speech": "9.0.2"
+        },
+        "runtime": {
+          "NetCoreAI.Project10_TextToSpeech.dll": {}
+        }
+      },
+      "System.Speech/9.0.2": {
+        "runtime": {
+          "lib/net9.0/System.Speech.dll": {
+            "assemblyVersion": "9.0.0.2",
+            "fileVersion": "9.0.225.6610"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net9.0/System.Speech.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.2",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAI.Project10_TextToSpeech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Speech/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-arQPudYrkW+cZfF7qyKcv9ukR7lM54AKyQDPX/2RPrC1EFlkYWHeOI6ST6VeI8hefW4zH9f/FnThuC70LFNd9A==",
+      "path": "system.speech/9.0.2",
+      "hashPath": "system.speech.9.0.2.nupkg.sha512"
+    }
+  }
+}

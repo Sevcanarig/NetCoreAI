@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UgSx8oV+xQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\NetCoreAI\\NetCoreAI.Project10_TextToSpeech\\NetCoreAI.Project10_TextToSpeech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\system.speech\\9.0.2\\system.speech.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

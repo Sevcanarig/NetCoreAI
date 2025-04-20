@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\NetCoreAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722C7012-538C-47DC-9EF4-66D2F6DA1FE7}|NetCoreAI.Project08_GoogleCloudVision\\NetCoreAI.Project08_GoogleCloudVision.csproj|c:\\users\\acer\\source\\repos\\netcoreai\\netcoreai.project08_googlecloudvision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722C7012-538C-47DC-9EF4-66D2F6DA1FE7}|NetCoreAI.Project08_GoogleCloudVision\\NetCoreAI.Project08_GoogleCloudVision.csproj|solutionrelative:netcoreai.project08_googlecloudvision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D66054-543A-4530-8865-ED4711D38A8D}|NetCoreAI.Project03_RapidApi\\NetCoreAI.Project03_RapidApi.csproj|c:\\users\\acer\\source\\repos\\netcoreai\\netcoreai.project03_rapidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D66054-543A-4530-8865-ED4711D38A8D}|NetCoreAI.Project03_RapidApi\\NetCoreAI.Project03_RapidApi.csproj|solutionrelative:netcoreai.project03_rapidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D66054-543A-4530-8865-ED4711D38A8D}|NetCoreAI.Project03_RapidApi\\NetCoreAI.Project03_RapidApi.csproj|c:\\users\\acer\\source\\repos\\netcoreai\\netcoreai.project03_rapidapi\\viewmodels\\apiseriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D66054-543A-4530-8865-ED4711D38A8D}|NetCoreAI.Project03_RapidApi\\NetCoreAI.Project03_RapidApi.csproj|solutionrelative:netcoreai.project03_rapidapi\\viewmodels\\apiseriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\NetCoreAI\\NetCoreAI.Project03_RapidApi\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project03_RapidApi\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\NetCoreAI\\NetCoreAI.Project03_RapidApi\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project03_RapidApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:55:51.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiSeriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\NetCoreAI\\NetCoreAI.Project03_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project03_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\NetCoreAI\\NetCoreAI.Project03_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
+              "RelativeToolTip": "NetCoreAI.Project03_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:55:49.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\NetCoreAI\\NetCoreAI.Project08_GoogleCloudVision\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project08_GoogleCloudVision\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\NetCoreAI\\NetCoreAI.Project08_GoogleCloudVision\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project08_GoogleCloudVision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:14:13.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

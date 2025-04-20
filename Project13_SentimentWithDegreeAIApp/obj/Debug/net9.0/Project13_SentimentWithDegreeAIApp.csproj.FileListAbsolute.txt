@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project13_SentimentWithDegreeAIApp.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project13_SentimentWithDegreeAIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project13_SentimentWithDegreeAIApp.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project13_SentimentWithDegreeAIApp.AssemblyInfo.cs
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project13_SentimentWithDegreeAIApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\Project13_SentimentWithDegreeAIApp.exe
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\Project13_SentimentWithDegreeAIApp.deps.json
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\Project13_SentimentWithDegreeAIApp.runtimeconfig.json
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\Project13_SentimentWithDegreeAIApp.dll
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\Project13_SentimentWithDegreeAIApp.pdb
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project1.BCE68427.Up2Date
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project13_SentimentWithDegreeAIApp.dll
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\refint\Project13_SentimentWithDegreeAIApp.dll
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project13_SentimentWithDegreeAIApp.pdb
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\Project13_SentimentWithDegreeAIApp.genruntimeconfig.cache
+C:\Users\acer\source\repos\NetCoreAI\Project13_SentimentWithDegreeAIApp\obj\Debug\net9.0\ref\Project13_SentimentWithDegreeAIApp.dll

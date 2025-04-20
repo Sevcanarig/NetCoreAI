@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.exe
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.deps.json
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.runtimeconfig.json
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\bin\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.pdb
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.AssemblyInfo.cs
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\refint\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.pdb
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.genruntimeconfig.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project18_OpenAINewsSummarizeWithRss\obj\Debug\net9.0\ref\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.dll

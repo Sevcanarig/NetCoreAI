@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.exe
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.deps.json
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.runtimeconfig.json
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.pdb
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.AssemblyInfo.cs
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\refint\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.pdb
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\NetCoreAI.Project04_OpenAIChat.genruntimeconfig.cache
+C:\Users\acer\source\repos\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net9.0\ref\NetCoreAI.Project04_OpenAIChat.dll
